@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "CtrlZ",
+"productName": "CtrlZ_JourneyToTitan",
 "productVersion": "0.1",
 "dataUrl": "WebGL.data.unityweb",
 "wasmCodeUrl": "WebGL.wasm.code.unityweb",
